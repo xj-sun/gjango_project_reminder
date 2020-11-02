@@ -24,6 +24,7 @@ class Reminder(models.Model):
     #warning_event = models.ImageField(default=0, choices=WARNING_CHOICE)
     warning_event = models.IntegerField(default=0)
     reminder_sent = models.DateField(default=datetime.min, blank=True)
+    # I just want to check if I can commit on a remote github
 
     def __str__(self):
         return self.user.get_username() + '_' + self.zipcode

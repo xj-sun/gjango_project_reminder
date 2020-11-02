@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d3602153-df18-4052-8142-3fa9f2812c0e" name="Default Changelist" comment="" />
+    <list default="true" id="d3602153-df18-4052-8142-3fa9f2812c0e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,10 +26,14 @@
   <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="PerforceDirect.Settings">
     <option name="SERVER_TIMEOUT" value="600000" />
   </component>
   <component name="ProjectId" id="1jhdPfFxqJYfwEha65DFom3GaWE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,6 +41,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Subversion.Network" />
@@ -120,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604260234657</updated>
       <workItem from="1604260246793" duration="2790000" />
-      <workItem from="1604289486680" duration="21172000" />
+      <workItem from="1604289486680" duration="22169000" />
     </task>
     <servers />
   </component>
@@ -136,6 +143,14 @@
       <screen x="0" y="23" width="1440" height="801" />
     </state>
     <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.801@0.23.1440.801" timestamp="1604262421926" />
+    <state x="303" y="28" key="CommitChangelistDialog2" timestamp="1604357971017">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="303" y="28" key="CommitChangelistDialog2/0.23.1440.804@0.23.1440.804" timestamp="1604357971017" />
+    <state x="585" y="326" key="Github.ShareDialog" timestamp="1604357902898">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="585" y="326" key="Github.ShareDialog/0.23.1440.804@0.23.1440.804" timestamp="1604357902898" />
     <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1604339095542">
       <screen x="0" y="23" width="1440" height="804" />
     </state>
